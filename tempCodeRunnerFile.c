@@ -1,0 +1,1 @@
+    int i, j, mat[SIZE][SIZE] = {0};
